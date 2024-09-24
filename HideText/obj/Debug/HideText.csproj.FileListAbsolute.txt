@@ -1,0 +1,10 @@
+C:\Users\rollandine\source\repos\HideText\HideText\bin\Debug\HideText.exe.config
+C:\Users\rollandine\source\repos\HideText\HideText\bin\Debug\HideText.exe
+C:\Users\rollandine\source\repos\HideText\HideText\bin\Debug\HideText.pdb
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Debug\HideText.csprojAssemblyReference.cache
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Debug\HideText.Properties.Resources.resources
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Debug\HideText.csproj.GenerateResource.cache
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Debug\HideText.csproj.CoreCompileInputs.cache
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Debug\HideText.exe
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Debug\HideText.pdb
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Debug\HideText.frmHideText.resources

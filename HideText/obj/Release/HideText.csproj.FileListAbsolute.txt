@@ -1,0 +1,9 @@
+C:\Users\rollandine\source\repos\HideText\HideText\bin\Release\HideText.exe.config
+C:\Users\rollandine\source\repos\HideText\HideText\bin\Release\HideText.exe
+C:\Users\rollandine\source\repos\HideText\HideText\bin\Release\HideText.pdb
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Release\HideText.frmHideText.resources
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Release\HideText.Properties.Resources.resources
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Release\HideText.csproj.GenerateResource.cache
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Release\HideText.csproj.CoreCompileInputs.cache
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Release\HideText.exe
+C:\Users\rollandine\source\repos\HideText\HideText\obj\Release\HideText.pdb
